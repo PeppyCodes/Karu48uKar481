@@ -1,0 +1,188 @@
+Uri: https://karuthukarthi.wordpress.com/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/comments/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\comments\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/xmlrpc.php?rsd
+File Name: D:\Desktop\karuthukarthi.wordpress.com\xmlrpc.xml
+Content Type: text/xml
+
+Uri: https://karuthukarthi.wordpress.com/osd.xml
+File Name: D:\Desktop\karuthukarthi.wordpress.com\osd.xml
+Content Type: application/xml
+
+Uri: https://karuthukarthi.wordpress.com/about/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\about\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/blog-2/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\blog-2\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/contact/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/29/why-how-i-reduced-35-kg-how-this-transformed-my-life/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\29\why-how-i-reduced-35-kg-how-this-transformed-my-life\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/author/karuthukarthi6213/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\author\karuthukarthi6213\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-listening-to-end-user-saved-huge-problem-to-business/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-listening-to-end-user-saved-huge-problem-to-business\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-psychographics-enhanced-my-customer-journey-map/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-psychographics-enhanced-my-customer-journey-map\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/category/personal/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\category\personal\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/category/uncategorized/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-use-case-helped-me-create-a-minimum-viable-product-mvp/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-use-case-helped-me-create-a-minimum-viable-product-mvp\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/blog/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/diet/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\diet\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/meditation/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\meditation\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/mindful-eating/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\mindful-eating\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/weight-loss/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\weight-loss\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/yoga/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\yoga\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/06/why-i-linked-user-story-maps-with-microservices/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\06\why-i-linked-user-story-maps-with-microservices\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/category/business-analysis/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\category\business-analysis\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/business-analysis/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\business-analysis\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/microservices/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\microservices\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/user-story-maps/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\user-story-maps\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/29/why-how-i-reduced-35-kg-how-this-transformed-my-life/amp/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\29\why-how-i-reduced-35-kg-how-this-transformed-my-life\amp\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/author/karuthukarthi6213/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\author\karuthukarthi6213\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-listening-to-end-user-saved-huge-problem-to-business/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-listening-to-end-user-saved-huge-problem-to-business\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-listening-to-end-user-saved-huge-problem-to-business/amp/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-listening-to-end-user-saved-huge-problem-to-business\amp\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-psychographics-enhanced-my-customer-journey-map/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-psychographics-enhanced-my-customer-journey-map\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-psychographics-enhanced-my-customer-journey-map/amp/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-psychographics-enhanced-my-customer-journey-map\amp\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/category/personal/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\category\personal\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/category/uncategorized/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\category\uncategorized\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-use-case-helped-me-create-a-minimum-viable-product-mvp/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-use-case-helped-me-create-a-minimum-viable-product-mvp\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-use-case-helped-me-create-a-minimum-viable-product-mvp/amp/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-use-case-helped-me-create-a-minimum-viable-product-mvp\amp\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/diet/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\diet\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/meditation/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\meditation\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/mindful-eating/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\mindful-eating\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/weight-loss/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\weight-loss\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/yoga/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\yoga\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/06/why-i-linked-user-story-maps-with-microservices/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\06\why-i-linked-user-story-maps-with-microservices\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/2020/08/06/why-i-linked-user-story-maps-with-microservices/amp/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\06\why-i-linked-user-story-maps-with-microservices\amp\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/category/business-analysis/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\category\business-analysis\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/business-analysis/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\business-analysis\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/microservices/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\microservices\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/user-story-maps/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\user-story-maps\feed\index.rss
+Content Type: application/rss+xml
+

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Business Analysis &#8211; Karuthu Karthi</title>
+	<atom:link href="https://karuthukarthi.wordpress.com/tag/business-analysis/feed/" rel="self" type="application/rss+xml" />
+	<link>https://karuthukarthi.wordpress.com</link>
+	<description>A Business Analyst&#039;s Journey of Wisdom</description>
+	<lastBuildDate>Wed, 12 Aug 2020 04:14:42 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='karuthukarthi.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://s0.wp.com/i/buttonw-com.png</url>
+		<title>Business Analysis &#8211; Karuthu Karthi</title>
+		<link>https://karuthukarthi.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://karuthukarthi.wordpress.com/osd.xml" title="Karuthu Karthi" />
+	<atom:link rel='hub' href='https://karuthukarthi.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Why I linked user story maps with microservices?</title>
+		<link>https://karuthukarthi.wordpress.com/2020/08/06/why-i-linked-user-story-maps-with-microservices/</link>
+					<comments>https://karuthukarthi.wordpress.com/2020/08/06/why-i-linked-user-story-maps-with-microservices/#respond</comments>
+		
+		<dc:creator><![CDATA[KaruthuKarthi]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2020 16:38:00 +0000</pubDate>
+				<category><![CDATA[Business Analysis]]></category>
+		<category><![CDATA[Microservices]]></category>
+		<category><![CDATA[User Story Maps]]></category>
+		<guid isPermaLink="false">http://karuthukarthi.wordpress.com/?p=31</guid>
+
+					<description><![CDATA[With a decent experience as a business analyst just touching the tip of the cloud technologies enabled me to see things in a new dimension. I was involved in the automation of Conferences and Events focused on Academics and Research institutes.&#160; The workflow usually runs in a way that people submit their “Research Articles” to<a class="more-link" href="https://karuthukarthi.wordpress.com/2020/08/06/why-i-linked-user-story-maps-with-microservices/">Continue reading <span class="screen-reader-text">"Why I linked user story maps with&#160;microservices?"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>With a decent experience as a business analyst just touching the tip of the cloud technologies enabled me to see things in a new dimension.</p>
+
+
+
+<p>I was involved in the automation of Conferences and Events focused on Academics and Research institutes.&nbsp;</p>
+
+
+
+<p>The workflow usually runs in a way that people submit their “Research Articles” to institutes which runs through a huge selection process. The Research Articles never be in one person&#8217;s custody it bounces like a basketball from one person to another then finally it&#8217;s selected or rejected or worst-case scenario: Starts its journey from first.</p>
+
+
+
+<p class="has-huge-font-size"><em>“oh poor Research Article”</em></p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="33" data-permalink="https://karuthukarthi.wordpress.com/image/" data-orig-file="https://karuthukarthi.files.wordpress.com/2020/08/image.png" data-orig-size="602,338" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image" data-image-description="" data-medium-file="https://karuthukarthi.files.wordpress.com/2020/08/image.png?w=300" data-large-file="https://karuthukarthi.files.wordpress.com/2020/08/image.png?w=602" src="https://karuthukarthi.files.wordpress.com/2020/08/image.png?w=602" alt="" class="wp-image-33" srcset="https://karuthukarthi.files.wordpress.com/2020/08/image.png 602w, https://karuthukarthi.files.wordpress.com/2020/08/image.png?w=150 150w, https://karuthukarthi.files.wordpress.com/2020/08/image.png?w=300 300w" sizes="(max-width: 602px) 100vw, 602px" /></figure>
+
+
+
+<p>&nbsp;This process cost lot of time, effort, meticulous follow up with the people having an article in hand. The fun part is all the communication is through mail or phone. Unproductive repetitive emails fall into every people’s inbox like a waterfall, it&#8217;s so hard and frustrating to find the important ones or just cc or bcc or some junk. By the time you sort things out you get hit by a bunch of emails saying and asking for different things.</p>
+
+
+
+<p>If you have seen the movie &#8220;Bruce Almighty&#8221; you could get it</p>
+
+
+
+<p>The project came to me at this level, the objective was to save time, unwanted man-hour and money to a client.&nbsp;</p>
+
+
+
+<p class="has-huge-font-size"><em>“that&#8217;s sweet&#8230; What&#8230;? Hey!!! wait a minute..” </em></p>
+
+
+
+<p>Where to Start?</p>
+
+
+
+<p>Where to End?</p>
+
+
+
+<p>How can that be achieved?</p>
+
+
+
+<p>How to establish people to new process?</p>
+
+
+
+<p>&nbsp;“hey brain that’s enough, for now, let us see how we can get that?”</p>
+
+
+
+<p>We first started with the conventional workflow of the participants and interaction with the faculties. We mapped the emotions at each stage of both participants and faculty in the “customer journey map” Why emotions? Because that drives all ! you can see how we created the customer journey map in this link.</p>
+
+
+
+<p>Post understanding the emotions we tried to semi-automate the areas where there are high occurrences of repeated or unwanted interaction. How? Very simple One source of truth for all, that truth source gets updated instantaneously from all possible direction. Hence people are redirected to that source of truth all times. Mailbox started to become lighter.</p>
+
+
+
+<p class="has-huge-font-size"><em>Yay! I could see the light of Hope&#8230;</em></p>
+
+
+
+<p>How did we achieve it?</p>
+
+
+
+<p>We created a new workflow to semi-automate the submission, selection, scoring, commenting and notification of Research Article. Decomposed every part of the solution classified them based on Features and Releases.</p>
+
+
+
+<ol type="1"><li>The top row represents the Features</li><li>Travelling from left to right for the workflow</li><li>Travelling from top to bottom on Releases where each release has a definite goal.</li><li>Grouped user stories into Epic ( I seriously don’t know what to name this user story group)</li><li>Joining certain user stories to achieve the Minimum Viable Product (MVP)</li></ol>
+
+
+
+<p>Up to this, I was working as a Business Analyst, but post this a spark came into my mind.</p>
+
+
+
+<p>Why can’t I use my cloud knowledge in this?</p>
+
+
+
+<p>Hence I proposed to split features into microservices. It requires another blog to explain why I did that, please use this link to read the blog.&nbsp;</p>
+
+
+
+<p>I also speculated when the development team start to work it would be time-consuming to make them understand relevant feature with microservices.&nbsp;</p>
+
+
+
+<p>To solve this problem I went little out of way from traditional &#8220;User Story Map&#8221;. I just added a row mentioning the microservices that are involved in each feature. That&#8217;ss all folks&#8221;</p>
+
+
+
+<p>That was very simple but it had a huge rippling effect.</p>
+
+
+
+<ul><li>Enabled development team to know what cloud services need to be configured for each feature.</li><li>Which let them focus on that feature fully.</li><li>Which gave time to decouple all the features.</li><li>That let Clients rearrange the workflow as they wish</li><li>Which lets us to Scale-out or scale-in any feature independently</li><li>Which reduced the cost of the server&nbsp;</li><li>Finally, the app became more seamless and resilient.</li></ul>
+
+
+
+<p>I am still unsure that this idea is right or wrong but this saved lot of time and money for our team as well as our client. Something like 5 people was doing the work which usually takes 20 people. Hence I am happy doing this.</p>
+
+
+
+<p>Please feel free to download this picture and use it for your own purpose, if you make any modification in this that add value please let me know. I am curious to learn from you.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://karuthukarthi.wordpress.com/2020/08/06/why-i-linked-user-story-maps-with-microservices/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/19c1f0696385db9c21f2f1463791cfcd?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">karuthukarthi6213</media:title>
+		</media:content>
+
+		<media:content url="https://karuthukarthi.files.wordpress.com/2020/08/image.png?w=602" medium="image" />
+	</item>
+	</channel>
+</rss>
