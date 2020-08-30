@@ -13,7 +13,7 @@
 	<atom:link href="https://karuthukarthi.wordpress.com/tag/weight-loss/feed/" rel="self" type="application/rss+xml" />
 	<link>https://karuthukarthi.wordpress.com</link>
 	<description>A Business Analyst&#039;s Journey of Wisdom</description>
-	<lastBuildDate>Sat, 29 Aug 2020 10:09:37 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Aug 2020 05:43:57 +0000</lastBuildDate>
 	<language>en</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,8 +31,9 @@
 	<item>
 		<title>Why/How I Reduced 35 Kg? How this Transformed my life?</title>
 		<link>https://karuthukarthi.wordpress.com/2020/08/29/why-how-i-reduced-35-kg-how-this-transformed-my-life/</link>
+					<comments>https://karuthukarthi.wordpress.com/2020/08/29/why-how-i-reduced-35-kg-how-this-transformed-my-life/#respond</comments>
 		
-		<dc:creator><![CDATA[KaruthuKarthi]]></dc:creator>
+		<dc:creator><![CDATA[Karuthu Karthi]]></dc:creator>
 		<pubDate>Sat, 29 Aug 2020 10:09:37 +0000</pubDate>
 				<category><![CDATA[Personal]]></category>
 		<category><![CDATA[Diet]]></category>
@@ -239,6 +240,8 @@
 <blockquote class="wp-block-quote"><p>All who fall are not defeated, those who fail to rise are the ones who are defeated.</p><cite>Karuthu Karthi &#8211; Author of Blog</cite></blockquote>
 ]]></content:encoded>
 					
+					<wfw:commentRss>https://karuthukarthi.wordpress.com/2020/08/29/why-how-i-reduced-35-kg-how-this-transformed-my-life/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 		
@@ -248,7 +251,7 @@
 		</media:content>
 
 		<media:content url="https://1.gravatar.com/avatar/19c1f0696385db9c21f2f1463791cfcd?s=96&#38;d=identicon&#38;r=G" medium="image">
-			<media:title type="html">karuthukarthi6213</media:title>
+			<media:title type="html">karuthukarthi</media:title>
 		</media:content>
 	</item>
 	</channel>

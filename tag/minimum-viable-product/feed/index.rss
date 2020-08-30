@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Minimum Viable Product &#8211; Karuthu Karthi</title>
+	<atom:link href="https://karuthukarthi.wordpress.com/tag/minimum-viable-product/feed/" rel="self" type="application/rss+xml" />
+	<link>https://karuthukarthi.wordpress.com</link>
+	<description>A Business Analyst&#039;s Journey of Wisdom</description>
+	<lastBuildDate>Sun, 30 Aug 2020 05:22:46 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='karuthukarthi.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://s0.wp.com/i/buttonw-com.png</url>
+		<title>Minimum Viable Product &#8211; Karuthu Karthi</title>
+		<link>https://karuthukarthi.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://karuthukarthi.wordpress.com/osd.xml" title="Karuthu Karthi" />
+	<atom:link rel='hub' href='https://karuthukarthi.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>How use case helped me create a Minimum Viable Product (MVP)</title>
+		<link>https://karuthukarthi.wordpress.com/2020/08/26/how-use-case-helped-me-create-a-minimum-viable-product-mvp/</link>
+					<comments>https://karuthukarthi.wordpress.com/2020/08/26/how-use-case-helped-me-create-a-minimum-viable-product-mvp/#respond</comments>
+		
+		<dc:creator><![CDATA[Karuthu Karthi]]></dc:creator>
+		<pubDate>Wed, 26 Aug 2020 09:25:35 +0000</pubDate>
+				<category><![CDATA[Business Analysis]]></category>
+		<category><![CDATA[Minimum Viable Product]]></category>
+		<category><![CDATA[MVP]]></category>
+		<category><![CDATA[Use Case]]></category>
+		<category><![CDATA[User Story Maps]]></category>
+		<guid isPermaLink="false">http://karuthukarthi.wordpress.com/?p=41</guid>
+
+					<description><![CDATA[Which comes first use case or user stories? Well in my perspective it depends on the project you are working. The current project demanded the user stories to be on top. That was just the start. All of a sudden user stories started to rain. I have patiently collected and in parallel, I started to<a class="more-link" href="https://karuthukarthi.wordpress.com/2020/08/26/how-use-case-helped-me-create-a-minimum-viable-product-mvp/">Continue reading <span class="screen-reader-text">"How use case helped me create a Minimum Viable Product&#160;(MVP)"</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h1></h1>
+
+
+
+<p>Which comes first use case or user stories?</p>
+
+
+
+<p>Well in my perspective it depends on the project you are working. The current project demanded the user stories to be on top.</p>
+
+
+
+<p>That was just the start. All of a sudden user stories started to rain. I have patiently collected and in parallel, I started to deliver them into respective buckets and named those buckets “Epic”. Then I arranged those epics in the order of workflow and release plan. This is called “User Story Map”.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="44" data-permalink="https://karuthukarthi.wordpress.com/image-1/" data-orig-file="https://karuthukarthi.files.wordpress.com/2020/08/image-1.png" data-orig-size="602,338" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image-1" data-image-description="" data-medium-file="https://karuthukarthi.files.wordpress.com/2020/08/image-1.png?w=300" data-large-file="https://karuthukarthi.files.wordpress.com/2020/08/image-1.png?w=602" src="https://karuthukarthi.files.wordpress.com/2020/08/image-1.png?w=602" alt="" class="wp-image-44" srcset="https://karuthukarthi.files.wordpress.com/2020/08/image-1.png 602w, https://karuthukarthi.files.wordpress.com/2020/08/image-1.png?w=150 150w, https://karuthukarthi.files.wordpress.com/2020/08/image-1.png?w=300 300w" sizes="(max-width: 602px) 100vw, 602px" /></figure>
+
+
+
+<p>Well, that was a good start, the user story map started to grow bigger and bigger as more stories dropped into. Consolidating those stories helped me to see the forest through trees.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="45" data-permalink="https://karuthukarthi.wordpress.com/image-2/" data-orig-file="https://karuthukarthi.files.wordpress.com/2020/08/image-2.png" data-orig-size="602,338" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image-2" data-image-description="" data-medium-file="https://karuthukarthi.files.wordpress.com/2020/08/image-2.png?w=300" data-large-file="https://karuthukarthi.files.wordpress.com/2020/08/image-2.png?w=602" src="https://karuthukarthi.files.wordpress.com/2020/08/image-2.png?w=602" alt="" class="wp-image-45" srcset="https://karuthukarthi.files.wordpress.com/2020/08/image-2.png 602w, https://karuthukarthi.files.wordpress.com/2020/08/image-2.png?w=150 150w, https://karuthukarthi.files.wordpress.com/2020/08/image-2.png?w=300 300w" sizes="(max-width: 602px) 100vw, 602px" /></figure>
+
+
+
+<p>It was a good kickstart… Next what? Dive into use cases.</p>
+
+
+
+<p>I was thinking how much time would it take to write use cases for hundreds of user stories for dozens for epics lying out there. There was also a second thought in my mind, by the time I create use cases for all the epics and stories out here what happens if the user stories are not used? or if the market changes which forced the client to trash old user stories and dump with new stories.</p>
+
+
+
+<p>Because Change is like Mr. Thanos from the Avengers Movie it often says I am inevitable. So we need to get ourselves ready for the inevitable change at any time and embrace it. This is Adaptive Development.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="46" data-permalink="https://karuthukarthi.wordpress.com/image-3/" data-orig-file="https://karuthukarthi.files.wordpress.com/2020/08/image-3.png" data-orig-size="300,188" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image-3" data-image-description="" data-medium-file="https://karuthukarthi.files.wordpress.com/2020/08/image-3.png?w=300" data-large-file="https://karuthukarthi.files.wordpress.com/2020/08/image-3.png?w=300" src="https://karuthukarthi.files.wordpress.com/2020/08/image-3.png?w=300" alt="" class="wp-image-46" srcset="https://karuthukarthi.files.wordpress.com/2020/08/image-3.png 300w, https://karuthukarthi.files.wordpress.com/2020/08/image-3.png?w=150 150w" sizes="(max-width: 300px) 100vw, 300px" /></figure>
+
+
+
+<p>Then I got a spark why to waste time on creating use cases for all user stories, instead create use cases for the ones which are at high priority or the one which is just enough to complete the process flow. We then linked a few user stories from each epic in to complete the workflow.</p>
+
+
+
+<p>Viola !!! there comes the MVP – Minimum Viable Product, just enough product to complete the workflow at minimum time and budget. So what Client Happy, Project Manager Happy, Business Analyst Happy.. Market Happy? hmm&#8230; we just did this to check that out</p>
+
+
+
+<p>Then I started to work on use cases for those user stories which are in MVP line. I intentionally let my foot into the client&#8217;s shoes, so I could understand their world.</p>
+
+
+
+<p>This helped me to focus strictly on the user system interaction alone, nothing else. In my own words, I could call it a minimum viable use case.</p>
+
+
+
+<p>Using the &#8220;use case&#8221; I started to prepare wireframe. This was the place where I realized the benefit. Sample Use Case below</p>
+
+
+
+<p>The user indicates the system to log in</p>
+
+
+
+<p>The system responds by requesting for mail id and password</p>
+
+
+
+<p>The user inputs the mail id and password</p>
+
+
+
+<p>The system checks for the authentication of the user</p>
+
+
+
+<p>The system allows user into the system</p>
+
+
+
+<p>The use case was so general that it can&#8217;t just be used for the website alone, it can be used for app or anything. Because I was not sure what is going to come because my client had too many Agent Smith&#8217;s with them. Luckily client decided to go for Website so I prepared wireframe for the website.</p>
+
+
+
+<p>While preparing wireframe I use to see every line of the use case and prepare wireframe only for those and nothing else. This process saved a lot of time I mean a lot.</p>
+
+
+
+<p>Usually, the monkey in my mind me will say Hey Karthi !!! add this feature, this will be nice&#8230; come on do this.. it will be impressive. I will listen to it and spend a lot of time and create a masterpiece. When I go out for a walk and come back the other monkey in my brain will say</p>
+
+
+
+<p>&#8220;ahh… all these extra bells and whistles are good but where is the feature the client asked for?&#8221;</p>
+
+
+
+<p>But this time I strictly stuck to the use case and nothing else. Wireframed the perfect Minimum Viable Product. It was so minimal that it didn’t have even a “Back Button” which I realized later.</p>
+
+
+
+<p>The fun part was the website passed all the test cases defined in MVP without the &#8220;Back Button&#8221;. Creating Back Button would have been a good and essential feature but the team would have done little extra effort which would have cost a little more to the client.</p>
+
+
+
+<p>This made me realize that creating a perfect use case before wireframing or prototyping could help me to create a perfect MVP successfully.</p>
+
+
+
+<p>Please feel free to use these illustrations for your personal and professional use.</p>
+
+
+
+<p>Thanks for Reading</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://karuthukarthi.wordpress.com/2020/08/26/how-use-case-helped-me-create-a-minimum-viable-product-mvp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://1.gravatar.com/avatar/19c1f0696385db9c21f2f1463791cfcd?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">karuthukarthi</media:title>
+		</media:content>
+
+		<media:content url="https://karuthukarthi.files.wordpress.com/2020/08/image-1.png?w=602" medium="image" />
+
+		<media:content url="https://karuthukarthi.files.wordpress.com/2020/08/image-2.png?w=602" medium="image" />
+
+		<media:content url="https://karuthukarthi.files.wordpress.com/2020/08/image-3.png?w=300" medium="image" />
+	</item>
+	</channel>
+</rss>
