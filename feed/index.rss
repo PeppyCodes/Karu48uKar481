@@ -13,7 +13,7 @@
 	<atom:link href="https://karuthukarthi.wordpress.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://karuthukarthi.wordpress.com</link>
 	<description>A Business Analyst&#039;s Journey of Wisdom</description>
-	<lastBuildDate>Sun, 30 Aug 2020 05:43:57 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Sep 2020 17:13:19 +0000</lastBuildDate>
 	<language>en</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,6 +29,146 @@
 	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://karuthukarthi.wordpress.com/osd.xml" title="Karuthu Karthi" />
 	<atom:link rel='hub' href='https://karuthukarthi.wordpress.com/?pushpress=hub'/>
 	<item>
+		<title>The Power of Planning and Documentation</title>
+		<link>https://karuthukarthi.wordpress.com/2020/09/10/the-power-of-planning-and-documentation/</link>
+					<comments>https://karuthukarthi.wordpress.com/2020/09/10/the-power-of-planning-and-documentation/#respond</comments>
+		
+		<dc:creator><![CDATA[Karuthu Karthi]]></dc:creator>
+		<pubDate>Thu, 10 Sep 2020 15:50:32 +0000</pubDate>
+				<category><![CDATA[Business Analysis]]></category>
+		<category><![CDATA[Documentation]]></category>
+		<category><![CDATA[Fail]]></category>
+		<category><![CDATA[Monitor]]></category>
+		<category><![CDATA[Plan]]></category>
+		<guid isPermaLink="false">http://karuthukarthi.wordpress.com/?p=75</guid>
+
+					<description><![CDATA[This blog is all about how planning and documentation saved me from unwanted blames during tough times in an initiative.]]></description>
+										<content:encoded><![CDATA[
+<p>In this blog, I would explain how planning and documentation saved me at difficult times.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>If You Fail to Plan, You Plan to Fail!</p><cite>Benjamin Franklin</cite></blockquote>
+
+
+
+<p>Luckily I had known this before the project start, so I have done the following before and during the project life cycle.</p>
+
+
+
+<ul><li>Finalized the Project Scope</li><li>Built High-Level Business Analysis approach</li><li>Made sure stakeholders are Identified and planned to get engaged</li><li>A measure of success in project implementation had been set</li><li>Change management had been introduced</li><li>Documenting the Change in scope at every stage</li></ul>
+
+
+
+<p>The project started, the objective of the project was to save the time of employees so that the efficiency of the man-hour is improved. Its a startup Business Intelligence firm.</p>
+
+
+
+<p>Requirements and designs are frequently updated, that&#8217;s good. because change is good. Even the high-level requirement had been updated every day, it&#8217;s like today&#8217;s update is no way relevant to yesterdays work. But here is where things started to get a little fishy.</p>
+
+
+
+<p>Since the deadline was approaching Business Analysis work had been started in a hurry without having proper time to analyze to what extent this change aligns to the scope of the project. </p>
+
+
+
+<p>The project had been moving on this phase for some weeks, I started to sense that the project is not going in the right direction. every stakeholder and business analysis team had been working on day and night but the rock wasn&#8217;t moving an inch.</p>
+
+
+
+<p>I felt like I and all stakeholders were trying to push and pull the big rock, but unsure of the direction, Though directions had been shown.</p>
+
+
+
+<figure class="wp-block-image size-large"><img data-attachment-id="175" data-permalink="https://karuthukarthi.wordpress.com/blog-rock3-1/" data-orig-file="https://karuthukarthi.files.wordpress.com/2020/09/blog-rock3-1.jpg" data-orig-size="1919,859" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="blog-rock3-1" data-image-description="" data-medium-file="https://karuthukarthi.files.wordpress.com/2020/09/blog-rock3-1.jpg?w=300" data-large-file="https://karuthukarthi.files.wordpress.com/2020/09/blog-rock3-1.jpg?w=750" src="https://karuthukarthi.files.wordpress.com/2020/09/blog-rock3-1.jpg" alt="" class="wp-image-175" /></figure>
+
+
+
+<p>In both Figure 1 and Figure 2 lot of efforts had been put into, But look closely</p>
+
+
+
+<ul><li><strong>Figure 1:</strong> The rock had been pushed and pulled in full effort, the direction of different person are different and incongruent, so the rock remains almost stationary and most efforts are wasted.</li><li><strong>Figure 2: </strong>The rock had been pushed and pulled in full effort, the direction of different person are different. But collectively the project moves in a direction. though the progress is little slow this is what should happen..</li></ul>
+
+
+
+<p>This made me to decide not to accept all changes just like that instead put those change into a change management process so that the changes are relevant to the objective of the initiative. This made the stakeholders to loose the collaboration.</p>
+
+
+
+<p>No Time to think, just discuss and do. Although in this tough situation where I didn&#8217;t have proper time to eat, were sometimes working even on Sundays, I tried to document everything that&#8217;s happening. At some point in time, I even felt &#8220;I should work instead of documenting because documentation wastes time&#8221; but my inner consciousness said documenting is worth the time. </p>
+
+
+
+<p>Weeks moved on like this. New Changes today, which is less relevant to yesterday, which is very less relevant to goal and objective of the initiative.</p>
+
+
+
+<p>One fine day I got questions from the client</p>
+
+
+
+<ul><li>What had you guys been doing all these days?</li><li>Where are the benefits?</li><li>We don&#8217;t have any results yet? deadline is approaching !!!</li></ul>
+
+
+
+<p>I tried to explain the number of changes without alignment lead to this &#8220;the rock story&#8221;. They were not convinced. Then I took out the documentation which I did on every day, presented to them. Client agreed then.</p>
+
+
+
+<p>The client requested for restarting the project, But they want some traditional methodology to handle their work. I very well knew that it will lead to failure down the line, explained them with enough data and lessons learned that the project will move towards point of failure. Client was pretty much stuck on the current methodology. I felt that starting again will definitely lead to failure again which is waste of time and money for client as well as me. Hence I dropped the project.</p>
+
+
+
+<p>Had I not done the documentation and explained the client, the entire blame of project failure would have dropped on Business Analysis. Good that I was considerably good in planning and documentation which saved me.</p>
+
+
+
+<blockquote class="wp-block-quote"><p>If You didn&#8217;t Document it, You didn&#8217;t do it</p><cite>Karuthu Karthi, Author of Blog</cite></blockquote>
+
+
+
+<p></p>
+			<div id="atatags-26942-5f5ae305d0606"></div>
+			
+			<script>
+				__ATA.cmd.push(function() {
+					__ATA.initDynamicSlot({
+						id: 'atatags-26942-5f5ae305d0606',
+						location: 120,
+						formFactor: '001',
+						label: {
+							text: 'Advertisements',
+						},
+						creative: {
+							reportAd: {
+								text: 'Report this ad',
+							},
+							privacySettings: {
+								text: 'Privacy settings',
+							}
+						}
+					});
+				});
+			</script>]]></content:encoded>
+					
+					<wfw:commentRss>https://karuthukarthi.wordpress.com/2020/09/10/the-power-of-planning-and-documentation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:thumbnail url="https://karuthukarthi.files.wordpress.com/2020/09/pexels-photo-3752834.jpeg" />
+		<media:content url="https://karuthukarthi.files.wordpress.com/2020/09/pexels-photo-3752834.jpeg" medium="image">
+			<media:title type="html">photo of man touching his head</media:title>
+		</media:content>
+
+		<media:content url="https://1.gravatar.com/avatar/19c1f0696385db9c21f2f1463791cfcd?s=96&#38;d=identicon&#38;r=G" medium="image">
+			<media:title type="html">karuthukarthi</media:title>
+		</media:content>
+
+		<media:content url="https://karuthukarthi.files.wordpress.com/2020/09/blog-rock3-1.jpg" medium="image" />
+	</item>
+		<item>
 		<title>When will you gather 100% of the requirement so that you can start to work</title>
 		<link>https://karuthukarthi.wordpress.com/2020/08/29/when-will-you-gather-100-of-the-requirement-so-that-you-can-start-to-work/</link>
 					<comments>https://karuthukarthi.wordpress.com/2020/08/29/when-will-you-gather-100-of-the-requirement-so-that-you-can-start-to-work/#respond</comments>
@@ -447,7 +587,7 @@
 		<media:content url="https://karuthukarthi.files.wordpress.com/2020/08/image-7.png?w=455" medium="image" />
 	</item>
 		<item>
-		<title>How Psychographics enhanced my customer journey map?</title>
+		<title>How Psychographics enhanced my &#8220;Customer Journey Map&#8221;?</title>
 		<link>https://karuthukarthi.wordpress.com/2020/08/26/how-psychographics-enhanced-my-customer-journey-map/</link>
 					<comments>https://karuthukarthi.wordpress.com/2020/08/26/how-psychographics-enhanced-my-customer-journey-map/#respond</comments>
 		
@@ -456,17 +596,17 @@
 				<category><![CDATA[Business Analysis]]></category>
 		<guid isPermaLink="false">http://karuthukarthi.wordpress.com/?p=50</guid>
 
-					<description><![CDATA[You might be asking what is the customer journey map in the first place. It is just mapping the journey of a user in the workflow, it may be anywhere. Even buying a coffee in Starbucks? Yes, You are executing a Customer Journey Map there (by the way Starbucks didn’t sponsor me). Customer Journey Map<a class="more-link" href="https://karuthukarthi.wordpress.com/2020/08/26/how-psychographics-enhanced-my-customer-journey-map/">Continue reading <span class="screen-reader-text">"How Psychographics enhanced my customer journey&#160;map?"</span></a>]]></description>
+					<description><![CDATA[You might be asking what is the customer journey map in the first place. It is just mapping the journey of a user in the workflow, it may be anywhere. Even buying a coffee in Starbucks? Yes, You are executing a Customer Journey Map there (by the way Starbucks didn’t sponsor me for this blog).<a class="more-link" href="https://karuthukarthi.wordpress.com/2020/08/26/how-psychographics-enhanced-my-customer-journey-map/">Continue reading <span class="screen-reader-text">"How Psychographics enhanced my &#8220;Customer Journey&#160;Map&#8221;?"</span></a>]]></description>
 										<content:encoded><![CDATA[
-<p>You might be asking what is the customer journey map in the first place. It is just mapping the journey of a user in the workflow, it may be anywhere. Even buying a coffee in Starbucks? Yes, You are executing a Customer Journey Map there (by the way Starbucks didn’t sponsor me). Customer Journey Map seems to be so important in this era of the volatile business climate.</p>
+<p>You might be asking what is the customer journey map in the first place. It is just mapping the journey of a user in the workflow, it may be anywhere. Even buying a coffee in Starbucks? Yes, You are executing a Customer Journey Map there (by the way Starbucks didn’t sponsor me for this blog). Customer Journey Map seems to be so important in this era of the volatile business climate.</p>
 
 
 
-<p>Earlier days Customers don’t have many choices its either Company A or Company B. But nowadays even 26 alphabets may not be enough as there are so many choices for customers, which means many competitors for your business too.</p>
+<p>Earlier days Customers don’t have many choices its either Company A or Company B. But nowadays even 26 alphabets may not be enough as there are so many choices for customers, which means so many competitors for your business too.</p>
 
 
 
-<p>Usually, customers are targeted and segmented using demographics. But even though you target them that way you will have a lot of competitors for your business. You will have to spend a lot of time, effort and money to reach your customers. Though you spend them and get your customers your competitor will be ready waiting behind you to grab them from you at any instant.</p>
+<p>Usually, customers are targeted and segmented using demographics. You will have to spend a lot of time, effort and money to reach your customers. Though you spend them and get your customers your competitor will be ready waiting behind you to snatch them from you at any instant.</p>
 
 
 
@@ -478,7 +618,7 @@
 
 
 
-<p>Some marketing expert would say that I have done all my target market analysis, market segmentation and all but I still not been able to get my customers.</p>
+<p>Some marketing expert would say that I have done all my target market analysis, market segmentation and all but I still not been able to sustain my customers.</p>
 
 
 
@@ -486,11 +626,11 @@
 
 
 
-<p>Its because you are not seeing through their eyes. You are not understanding their emotions. What? Emotions !!! you might say&#8230;</p>
+<p>Its because you are not seeing through their eyes. You are not understanding their emotions. What? Emotions !!! We were not thought in any school to understand anyone&#8217;s emotions&#8230; Right?</p>
 
 
 
-<p>Hey&#8230; Emotions are intangible things; our business model didn’t teach to look for customers emotions. Just their problems and solutions.</p>
+<p>Hey&#8230; Emotions are intangible things. Our business model didn’t teach to look for customers emotions. Just their problems and solutions.</p>
 
 
 
@@ -502,7 +642,7 @@
 
 
 
-<p>A Company just reaching you vs company connecting with you. I guess you got it right.</p>
+<p>In Customers perspective, Company just reaching you vs company connecting with you. I guess you got it right.</p>
 
 
 
@@ -510,11 +650,11 @@
 
 
 
-<p>Now here comes our saviour &#8220;The Psychograph&#8221;, So does it mean you have to trash your demographics and switch to Psychograph? No, you should not trash them. You use it with them. Consider Phycograph as a steroid to your demograph,</p>
+<p>Now here comes our saviour &#8220;<strong>The Psychograph</strong>&#8220;, So does it mean you have to trash your demographics and switch to Psychograph? No, you should not trash them. You use it with them. Consider Phycograph as a steroid to your demograph,</p>
 
 
 
-<p>Use your demograph and Psychograph, try to connect both of them. there is a possibility that you may have to ignore some customer of your demographic, yes you have to. Think Reaching vs Connecting, Which means more conversion ration, useful in long term survival.</p>
+<p>Use your demograph and Psychograph, try to connect both of them. there is a possibility that you may have to ignore some customer of your demographic, yes you have to. Re-Think Reaching vs Connecting, Which means more conversion ration, useful in long term survival.</p>
 
 
 

@@ -266,3 +266,47 @@ Uri: https://karuthukarthi.wordpress.com/tag/microservices/feed/
 File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\microservices\feed\index.rss
 Content Type: application/rss+xml
 
+Uri: https://karuthukarthi.wordpress.com/2020/09/10/the-power-of-planning-and-documentation/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\09\10\the-power-of-planning-and-documentation\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/documentation/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\documentation\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/fail/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\fail\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/monitor/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\monitor\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/plan/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\plan\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/2020/09/10/the-power-of-planning-and-documentation/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\09\10\the-power-of-planning-and-documentation\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/2020/09/10/the-power-of-planning-and-documentation/amp/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\09\10\the-power-of-planning-and-documentation\amp\index.htm
+Content Type: text/html
+
+Uri: https://karuthukarthi.wordpress.com/tag/documentation/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\documentation\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/fail/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\fail\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/monitor/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\monitor\feed\index.rss
+Content Type: application/rss+xml
+
+Uri: https://karuthukarthi.wordpress.com/tag/plan/feed/
+File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\plan\feed\index.rss
+Content Type: application/rss+xml
+
