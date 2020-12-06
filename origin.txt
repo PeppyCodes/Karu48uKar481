@@ -46,10 +46,6 @@ Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-listening-to-end-user-sa
 File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-listening-to-end-user-saved-huge-problem-to-business\index.htm
 Content Type: text/html
 
-Uri: https://karuthukarthi.wordpress.com/category/business-analysis/
-File Name: D:\Desktop\karuthukarthi.wordpress.com\category\business-analysis\index.htm
-Content Type: text/html
-
 Uri: https://karuthukarthi.wordpress.com/category/personal/
 File Name: D:\Desktop\karuthukarthi.wordpress.com\category\personal\index.htm
 Content Type: text/html
@@ -64,10 +60,6 @@ Content Type: text/html
 
 Uri: https://karuthukarthi.wordpress.com/blog/
 File Name: D:\Desktop\karuthukarthi.wordpress.com\blog\index.htm
-Content Type: text/html
-
-Uri: https://karuthukarthi.wordpress.com/category/project-management/
-File Name: D:\Desktop\karuthukarthi.wordpress.com\category\project-management\index.htm
 Content Type: text/html
 
 Uri: https://karuthukarthi.wordpress.com/tag/adaptive-methodology/
@@ -166,10 +158,6 @@ Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-listening-to-end-user-sa
 File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-listening-to-end-user-saved-huge-problem-to-business\amp\index.htm
 Content Type: text/html
 
-Uri: https://karuthukarthi.wordpress.com/category/business-analysis/feed/
-File Name: D:\Desktop\karuthukarthi.wordpress.com\category\business-analysis\feed\index.rss
-Content Type: application/rss+xml
-
 Uri: https://karuthukarthi.wordpress.com/category/personal/feed/
 File Name: D:\Desktop\karuthukarthi.wordpress.com\category\personal\feed\index.rss
 Content Type: application/rss+xml
@@ -185,10 +173,6 @@ Content Type: application/rss+xml
 Uri: https://karuthukarthi.wordpress.com/2020/08/26/how-psychographics-enhanced-my-customer-journey-map/amp/
 File Name: D:\Desktop\karuthukarthi.wordpress.com\2020\08\26\how-psychographics-enhanced-my-customer-journey-map\amp\index.htm
 Content Type: text/html
-
-Uri: https://karuthukarthi.wordpress.com/category/project-management/feed/
-File Name: D:\Desktop\karuthukarthi.wordpress.com\category\project-management\feed\index.rss
-Content Type: application/rss+xml
 
 Uri: https://karuthukarthi.wordpress.com/tag/adaptive-methodology/feed/
 File Name: D:\Desktop\karuthukarthi.wordpress.com\tag\adaptive-methodology\feed\index.rss
